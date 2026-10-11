@@ -3,3 +3,5 @@ hey! call me ev. im currently the cto @ carde.io, where we're building a platfor
 previously, i dropped out of college to start my first startup (path.me), which went through y combinator in 2019. we raised 7mm, built a bank, and helped students get over 100mm in financial aid for college. after path i built spicerack.gg, which quickly became the most popular event search tool for magic the gathering, and our tournament software + app is still actively used at almost every north american mtg convention. i wound spicerack down at the end of 2024 and joined carde.io to run the engineering dept. 
 
 [join us!](mailto:evan.farrell@carde.io)
+
+<!-- Contribution graph art: 2026-10-11. -->
